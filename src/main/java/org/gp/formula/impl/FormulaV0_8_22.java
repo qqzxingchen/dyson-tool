@@ -13,7 +13,7 @@ public class FormulaV0_8_22 extends AbsFormulaManager {
         List<DysonFormula> formulaList = new ArrayList<>();
         formulaList.addAll( genFinal() );
         formulaList.addAll( genMid() );
-        formulaList.addAll( gen_碳纳米管_2() );
+        formulaList.addAll( gen_碳纳米管_1() );
         formulaList.addAll( gen_光子合并器_1() );
         formulaList.addAll( gen_卡西米尔晶体_1() );
         formulaList.addAll( genLow() );
